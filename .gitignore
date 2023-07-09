@@ -1,2 +1,4 @@
 node_modules
 .env
+ssh-github
+ssh-github.pub
